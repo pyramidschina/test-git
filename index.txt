@@ -1,1 +1,3 @@
 hello init 
+
+add one line in version 2!
